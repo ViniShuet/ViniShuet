@@ -3,8 +3,8 @@
 	
 <div>
   <a href:"https://github.com/ViniShuet" >
-    <img height = "160em" src="https://github-readme-stats.vercel.app/api?username=ViniShuet&show_icons=true&theme=royalblue&include_all_commits=true&count_private=true"/>
-    <img <img height = "160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniShuet&layout=compact&langs_count=16&theme=racial"/>
+    <img height = "160em" src="https://github-readme-stats.vercel.app/api?username=ViniShuet&show_icons=true&theme=darkblue&include_all_commits=true&count_private=true"/>
+    <img <img height = "160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniShuet&layout=compact&langs_count=16&theme=darkblue"/>
 </div>
 
 <div style="display: inline-block"> <br>
